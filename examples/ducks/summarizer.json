@@ -1,0 +1,8 @@
+{
+  "id": "summarizer",
+  "type": "openai_chat",
+  "system_message": "Summarize the provided information into 3-4 bullet points, concise and clear.",
+  "model": "gpt-4o-mini",
+  "api_key_var": "OPENAI_API_KEY",
+  "knowledge_base": "examples/kb/knowledge.txt"
+}

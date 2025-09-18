@@ -1,0 +1,11 @@
+{
+  "flocks": {
+    "quack_test": [
+      { "id": "quack" }
+    ],
+    "research_summary": [
+      { "id": "researcher" },
+      { "id": "summarizer" }
+    ]
+  }
+}

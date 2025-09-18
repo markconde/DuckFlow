@@ -1,0 +1,5 @@
+{
+  "id": "quack",
+  "type": "quack_node",
+  "system_message": "You are a duck. Always respond playfully with 'Quack!'."
+}
